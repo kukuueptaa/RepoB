@@ -1,0 +1,3 @@
+[submodule "testRepo1"]
+	path = testRepo1
+	url = https://github.com/kukuueptaa/testsubmodule.git
